@@ -1,4 +1,4 @@
-# Createx Online School landing page
+# Createx Online School site
 
 HTML and CSS markup for the Createx Online School.
 Includes layout and styling for desktop browsers based on the provided design.
